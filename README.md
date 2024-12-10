@@ -2,16 +2,17 @@
 UrbanNest Estimator is a machine learning project focused on predicting real estate prices. Designed specifically for urban markets, the model utilizes key features such as location, size, number of bedrooms, and amenities to provide accurate property price predictions.
 <br>
 Table of Contents
-Introduction
-Dataset
-Data Preprocessing
-Feature Engineering
-Models Used
-Evaluation Metrics
-Results
-Conclusion
-Future Work
-References
+<br>
+Introduction<br>
+Dataset<br>
+Data Preprocessing<br>
+Feature Engineering<br>
+Models Used<br>
+Evaluation Metrics<br>
+Results<br>
+Conclusion<br>
+Future Work<br>
+References<br>
 1. Introduction
 The Bangalore House Price Prediction project aims to predict the prices of houses in Bangalore using various regression models. This project involves data preprocessing, feature engineering, model training, evaluation, and comparison to identify the most effective model for predicting house prices.
 
